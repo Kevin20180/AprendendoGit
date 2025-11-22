@@ -14,3 +14,4 @@ git commit -m <nome da commit> - Cria uma commit.
 git push -u origin <branch> - Faz um push dos arquivos locais para o remoto.
 
 git checkout -b <branch> - Cria uma nova branch e muda para ela.
+git checkout <branch> - Muda para uma branch.
