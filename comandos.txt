@@ -1,4 +1,7 @@
 git init - Inicializa o Git no projeto, criando uma pasta .git com as configurações.
 git add <arquivo> - Adiciona o arquivo na fila de espera até ser comitado.
 git status - Mostra os status do projeto.
-
+git commit -m <nome da commit> - Cria uma commit.
+git branch -M <nome da branch> - Resumidamente renomeia a branch atual.
+git remove add origin <url> - Faz conexão do repositório local com o remoto.
+git push -u origin <branch> - Faz um push dos arquivos locais para o remoto.
