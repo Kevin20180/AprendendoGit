@@ -1,0 +1,4 @@
+git init - Inicializa o Git no projeto, criando uma pasta .git com as configurações.
+git add <arquivo> - Adiciona o arquivo na fila de espera até ser comitado.
+git status - Mostra os status do projeto.
+
